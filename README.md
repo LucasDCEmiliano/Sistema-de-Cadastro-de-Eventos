@@ -1,5 +1,5 @@
 ## Sistema de Cadastro de Eventos
-Sistema em JavaScript para Cadastro de Eventos - **<i>Curso Front-End Senai</i>**
+Sistema em JavaScript para Cadastro de Eventos - **<i>Curso Front-end Senai</i>**
 
 #### Tecnologia Usada:
 <table>
